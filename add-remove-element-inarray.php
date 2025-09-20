@@ -1,5 +1,5 @@
 <?php
-$fruits = ["Apple", "Banana", "Mango"];
+$fruits = ["Apple", "Banana", "Mango","Apple"];
 
 // add element
 // print_r($fruits);
@@ -14,6 +14,8 @@ $fruits = ["Apple", "Banana", "Mango"];
 // print_r($fruits);
 
 
-// multiple element remobve
+// multiple element remove 
 
+// array_splice($fruits,-2);
+// print_r($fruits);
 ?>
